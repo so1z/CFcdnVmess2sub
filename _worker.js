@@ -12,8 +12,8 @@ let addresses = [
 // 设置优选地址api接口
 let addressesapi = [
 	'https://ct.xxxxxxxx.tk',
-	'https://cm.xxxxxxxx.tk',
-        'https://cu.xxxxxxxx.tk',
+	'https://addressesapi.090227.xyz/ct',
+        'https://addressesapi.090227.xyz/CloudFlareYes',
 	
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。
 ];
